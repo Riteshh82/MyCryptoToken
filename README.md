@@ -1,7 +1,7 @@
-# SimpleToken Smart Contract
+# MyCryptoToken Smart Contract
 
 ## Overview
-`SimpleToken` is a basic ERC20-like token implementation written in Solidity. This contract allows the creation of a token with a defined total supply, name, symbol, and decimals. Users can check their balances and transfer tokens to other addresses.
+`MyCryptoToken` is a basic ERC20-like token implementation written in Solidity. This contract allows the creation of a token with a defined total supply, name, symbol, and decimals. Users can check their balances and transfer tokens to other addresses.
 
 ## Features
 - **Total Supply**: The total number of tokens created at deployment.
